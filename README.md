@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h3 align="left">Local Server:</h3>
 <ul style="list-style: none;">
   <li>💽 ProxMox 7.2-3</li>
-  <li>🖥 4770k; 16GB Ram</li>
+  <li>🖥 Intel i7 4770k; 16GB Ram</li>
   <li>☀ 24/7 on; 50W idle</li>
   <li>🔜 Soon to be upgraded to DELL PowerEdge R730; E5-2650v4; 32GB Ram</li>
 </ul>
