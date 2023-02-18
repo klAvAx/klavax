@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <ul style="list-style: none;">
   <li>💽 Dual boot Kubuntu 22.04.1 LTS & Windows 10</li>
   <li>🖥 Ryzen 9 3950x; 32GB Ram; RTX 3080Ti; Dual 4k Monitors</li>
-  <li>🔊 DIY D-Class BiAmp with Analog Devices DSP & CODEC</li>
+  <li>🔊 DIY D-Class Bi-Amp with Analog Devices DSP & CODEC</li>
   <li>⌨ Redragon K580 VATA (Clicky blue switches)</li>
   <li>🖱 Logitech G502 Hero</li>
 </ul>
