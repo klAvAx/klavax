@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <li>💽 ProxMox 7.2-3</li>
   <li>🖥 Intel i7 4770k; 16GB Ram</li>
   <li>☀ 24/7 on; 50W idle</li>
-  <li>🔜 Soon to be upgraded to DELL PowerEdge R730; E5-2650v4; 32GB Ram</li>
+  <li>🔜 Soon to be upgraded to DELL PowerEdge R730; 2x E5-2650v4; 32GB Ram; NVMe + SSD storage</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
