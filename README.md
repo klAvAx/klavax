@@ -22,8 +22,7 @@ Here are some ideas to get you started:
   <li>👓 Valve Index</li>
   <li>🦉 Night walker</li>
   <li>🚀 Fullstack dev, preference may change based on project at hand!</li>
-  <li>☕ Cappuccino with caramel and sugar</li>
-  <li>🌟 Electronics, reverse engineering, game development, VR & music!</li>
+  <li>🌟 Electronics, 3D Modeling, reverse engineering, game development, VR & music!</li>
 </ul>
 
 <h3 align="left">Workspace:</h3>
@@ -33,11 +32,13 @@ Here are some ideas to get you started:
   <li>🔊 DIY D-Class Bi-Amp with Analog Devices DSP & CODEC</li>
   <li>⌨ Redragon K580 VATA (Clicky blue switches)</li>
   <li>🖱 Logitech G502 Hero</li>
+  <li>📷 Logitech Brio 4K</li>
+  <li>💿 Numark Mixtrack Platinum FX</li>
 </ul>
 
 <h3 align="left">Local Server:</h3>
 <ul style="list-style: none;">
-  <li>💽 ProxMox 7.2-3</li>
+  <li>💽 ProxMox 7.4-3</li>
   <li>🖥 Intel i7 4770k; 16GB Ram</li>
   <li>☀ 24/7 on; 50W idle</li>
   <li>🔜 Soon to be upgraded to DELL PowerEdge R730; 2x E5-2650v4; 32GB Ram; NVMe + SSD storage</li>
