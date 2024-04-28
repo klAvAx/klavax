@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Workspace:</h3>
 <ul style="list-style: none;">
+  <li>💻 Apple Macbook Pro (M3 Max; 64GB)</li>
   <li>💽 Dual boot Kubuntu 22.04.1 LTS & Windows 10</li>
   <li>🖥 Ryzen 9 3950x; 32GB Ram; RTX 3080Ti; Dual 4k Monitors</li>
   <li>🔊 DIY D-Class Bi-Amp with Analog Devices DSP & CODEC</li>
@@ -38,10 +39,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Local Server:</h3>
 <ul style="list-style: none;">
-  <li>💽 ProxMox 7.4-3</li>
-  <li>🖥 Intel i7 4770k; 16GB Ram</li>
-  <li>☀ 24/7 on; 50W idle</li>
-  <li>🔜 Soon to be upgraded to DELL PowerEdge R730; 2x E5-2650v4; 32GB Ram; NVMe + SSD storage</li>
+  <li>💽 ProxMox 8.2.2</li>
+  <li>🖥 DELL PowerEdge R730; 2x E5-2650v4; 64GB ECC Ram; 2x NVMe 2TB 990 Pro; 6x SATA 2TB 870 Evo</li>
+  <li>☀ 24/7 on; ~65W idle</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
