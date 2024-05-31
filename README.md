@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3 align="left">Local Server:</h3>
 <ul style="list-style: none;">
   <li>💽 ProxMox 8.2.2</li>
-  <li>🖥 DELL PowerEdge R730; 2x E5-2650v4; 64GB ECC Ram; 2x NVMe 2TB 990 Pro; 6x SATA 2TB 870 Evo</li>
+  <li>🖥 DELL PowerEdge R730; 2x E5-2650v4; 512GB ECC Ram; 2x NVMe 2TB 990 Pro; 6x SATA 2TB 870 Evo</li>
   <li>☀ 24/7 on; ~65W idle</li>
 </ul>
 
