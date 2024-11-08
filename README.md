@@ -27,9 +27,20 @@ Here are some ideas to get you started:
 
 <h3 align="left">Workspace:</h3>
 <ul style="list-style: none;">
-  <li>💻 Apple Macbook Pro (M3 Max; 64GB)</li>
-  <li>💽 Windows 10 Pro</li>
-  <li>🖥 Ryzen 9 3950x; 32GB Ram; RTX 3080Ti; 3x 4k Monitors</li>
+  <li>
+    Apple
+    <ul>
+      <li>🖥 Mac Studio (M2 Max; 64GB)</li>
+      <li>💻 Macbook Pro (M3 Max; 64GB)</li>
+    </ul>
+  </li>
+  <li>
+    Windows
+    <ul>
+      <li>💽 Windows 10 Pro</li>
+      <li>🖥 Ryzen 9 3950x; 32GB Ram; RTX 3080Ti; 3x 4k Monitors</li>
+    </ul>
+  </li>
   <li>🔊 DIY D-Class Bi-Amp with Analog Devices DSP & CODEC</li>
   <li>⌨ Redragon K580 VATA (Clicky blue switches)</li>
   <li>🖱 Logitech MX Master 3S (Blue Metallic paint & Clicky button modded)</li>
@@ -39,9 +50,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Local Server:</h3>
 <ul style="list-style: none;">
-  <li>💽 ProxMox 8.2.2</li>
-  <li>🖥 DELL PowerEdge R730; 2x E5-2650v4; 512GB ECC Ram; 2x NVMe 2TB 990 Pro; 8x SATA 2TB 870 Evo (RAIDz2)</li>
-  <li>☀ 24/7 on; ~100W idle</li>
+  <li>
+    🖥 DELL PowerEdge R730
+    <ul>
+      <li>💽 ProxMox 8.2.2</li>
+      <li>2x E5-2650v4; 512GB ECC Ram; Nvidia GeForce GTX1650s; 2x NVMe 2TB 990 Pro; 8x SATA 2TB 870 Evo (RAIDz2)</li>
+      <li>☀ 24/7 on; ~130W idle</li>
+    </ul>
+  </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
