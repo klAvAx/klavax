@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <li>
     🖥 DELL PowerEdge R730
     <ul>
-      <li>💽 ProxMox 8.2.2</li>
+      <li>💽 ProxMox 8.4.1</li>
       <li>2x E5-2650v4; 512GB ECC Ram; Nvidia GeForce GTX1650s; 2x NVMe 2TB 990 Pro; 8x SATA 2TB 870 Evo (RAIDz2)</li>
       <li>☀ 24/7 on; ~130W idle</li>
     </ul>
