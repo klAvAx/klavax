@@ -37,8 +37,8 @@ Here are some ideas to get you started:
   <li>
     Windows
     <ul>
-      <li>💽 Windows 10 Pro</li>
-      <li>🖥 Ryzen 9 3950x; 32GB Ram; RTX 3080Ti; 3x 4k Monitors</li>
+      <li>💽 Windows 11 Pro</li>
+      <li>🖥 Ryzen 9 9950x3D; 96GB Ram; RTX 3080Ti; 3x 4k Monitors</li>
     </ul>
   </li>
   <li>🔊 DIY D-Class Bi-Amp with Analog Devices DSP & CODEC</li>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <li>
     🖥 DELL PowerEdge R730
     <ul>
-      <li>💽 ProxMox 8.4.1</li>
+      <li>💽 ProxMox 8.4.11</li>
       <li>2x E5-2650v4; 512GB ECC Ram; Nvidia GeForce GTX1650s; 2x NVMe 2TB 990 Pro; 8x SATA 2TB 870 Evo (RAIDz2)</li>
       <li>☀ 24/7 on; ~130W idle</li>
     </ul>
