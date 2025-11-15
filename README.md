@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="left">A few tidbits about me:</h3>
 <ul align="left" style="list-style: none;">
   <li>🎮 Varies from time to time</li>
-  <li>👓 Valve Index</li>
+  <li>👓 Bigscreen Beyond 2e, Valve Index</li>
   <li>🦉 Night walker</li>
   <li>🚀 Fullstack dev, preference may change based on project at hand!</li>
   <li>🌟 Electronics, 3D Modeling, reverse engineering, game development, VR & music!</li>
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
     🖥 DELL PowerEdge R730
     <ul>
       <li>💽 ProxMox 8.4.11</li>
-      <li>2x E5-2650v4; 512GB ECC Ram; Nvidia GeForce GTX1650s; 2x NVMe 2TB 990 Pro; 8x SATA 2TB 870 Evo (RAIDz2)</li>
-      <li>☀ 24/7 on; ~130W idle</li>
+      <li>2x E5-2699v4; 512GB ECC Ram; Nvidia GeForce GTX1650s; 2x NVMe 2TB 990 Pro; 8x SATA 2TB 870 Evo (RAIDz2)</li>
+      <li>☀ 24/7 on; ~150W idle</li>
     </ul>
   </li>
 </ul>
